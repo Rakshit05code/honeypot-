@@ -169,4 +169,5 @@ This project was built in an isolated lab environment (Kali Linux VM as the only
 
 If you work in SOC, Threat Intelligence, or Security Engineering, I'd love to connect and exchange ideas.
 
-**Rakshit Chaudhary** · [https://www.linkedin.com/in/rakshit-chaudhary-aa689531b/](#)
+**Rakshit Chaudhary** · 
+[LinkedIn](https://www.linkedin.com/in/rakshit-chaudhary-aa689531b/)
